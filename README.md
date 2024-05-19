@@ -6,7 +6,7 @@ The Morgue is an immersive escape room style VR experience built for Google Card
 In this chilling horror adventure, you find yourself trapped in a dimly lit morgue with only your wits and the objects around you to guide your escape. 
 Solve puzzles, navigate the environment, and use your gaze to interact with objects as you try to find a way out.
 
-<a href="https://www.youtube.com/channel/UCtkFZtqfY99xL_QGZQAVpoA">
+<a href="https://www.youtube.com/watch?v=td1xsALweyg">
     <img alt="Flaticon" title="Flaticon" src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" width="30">
 </a>
 
